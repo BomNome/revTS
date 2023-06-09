@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#header{
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+    padding: 20px;
+}
+#soma{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
+.calculator{
+    display: flex;
+    justify-content: center;
+}
